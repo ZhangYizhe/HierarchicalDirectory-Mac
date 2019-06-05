@@ -1,0 +1,6 @@
+framework module Pods_HierarchicalDirectoryTests {
+  umbrella header "Pods-HierarchicalDirectoryTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
